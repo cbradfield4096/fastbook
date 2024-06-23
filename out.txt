@@ -1,0 +1,1 @@
+/home/ulink/Documents/fastbook/.venv/bin/python
